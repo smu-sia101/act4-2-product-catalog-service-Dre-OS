@@ -1,0 +1,6 @@
+@PCS.WebAPI_HostAddress = http://localhost:5130
+
+GET {{PCS.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
